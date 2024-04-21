@@ -1,5 +1,5 @@
 ## About Us:
-We are a group of AI Researchers and Engineers, led by [Dr. Qingsong Wen](https://sites.google.com/site/qingsongwen8/) from [Squirrel AI](https://squirrelai.com/). Motivated by challenging problems arising from industry, we are working on **AI for Education (AI4EDU)**.
+We are a group of AI Researchers and Engineers, led by [Dr. Qingsong Wen](https://sites.google.com/site/qingsongwen8/) from [Squirrel AI](https://squirrelai.com/). Motivated by challenging problems arising from industry, we are working on **AI for Education (AI4EDU)** via AI technologies (like LLM, AI Agent, GenAI, Transformer, SSL, GNN, XAI, etc.).
 
 ## Our **Workshop on AI for Education**:
 
