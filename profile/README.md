@@ -14,4 +14,4 @@ We are a group of AI Researchers and Engineers, led by [Dr. Qingsong Wen](https:
 
 ## Others:
 **Current Openings**: 
-We are happy to hire Applied Scientists and Research Interns in both Bellevue (US) and Shanghai (China) for cutting-edge R&D on AI for Education. Please contact qingsongwen[at]squirrelai.com.
+We are happy to **hire Applied Scientists and Research Interns** in both Bellevue (US) and Shanghai (China) for cutting-edge R&D on AI for Education. Please contact qingsongwen[at]squirrelai.com.
