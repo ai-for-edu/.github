@@ -7,6 +7,7 @@ We are a group of AI Researchers and Engineers, led by [Dr. Qingsong Wen](https:
 - IEEE CAI 2024 Workshop on AI for Education: Exploring LLMs and Adaptive Learning for Personalized Education, [[Link]](https://ai-for-edu.github.io/workshop_cai2024.html)
 
 ## Our **Survey/Position/Tutorial on AI for Education**:
+- Foundation Models for Education: Promises and Prospects, IEEE Intelligent Systems, 2024. [[arXiv]](https://arxiv.org/abs/2405.10959)
 - Large Language Models for Education: A Survey and Outlook, 2024. [[arXiv]](https://arxiv.org/abs/2403.18105)
 - Bringing Generative AI to Adaptive Learning in Education, 2024. [[arXiv]](https://arxiv.org/abs/2402.14601)
 - Developing and Deploying Industry Standards for Artificial Intelligence in Education (AIED): Challenges, Strategies, and Future Directions, 2024. [[arXiv]](https://arxiv.org/abs/2403.14689)
