@@ -8,8 +8,8 @@ We are a group of AI Researchers and Engineers, led by [Dr. Qingsong Wen](https:
 
 ## Our Papers on AI for Education:
 
-- AI-Driven Virtual Teacher for Enhanced Educational Efficiency: Leveraging Large Pretrain Models for Autonomous Error Analysis and Correction, AAAI 2025, (AAAI/IAAI 2025 Deployed Application Award). [[arXiv]](https://arxiv.org/abs/2409.09403)
-- Knowledge Tagging with Large Language Model based Multi-Agent System, AAAI 2025, (AAAI/IAAI 2025 Deployed Application Award). [[arXiv]](https://arxiv.org/abs/2409.08406)
+- AI-Driven Virtual Teacher for Enhanced Educational Efficiency: Leveraging Large Pretrain Models for Autonomous Error Analysis and Correction, AAAI 2025, (**AAAI/IAAI 2025 Deployed Application Award**). [[arXiv]](https://arxiv.org/abs/2409.09403)
+- Knowledge Tagging with Large Language Model based Multi-Agent System, AAAI 2025, (**AAAI/IAAI 2025 Deployed Application Award**). [[arXiv]](https://arxiv.org/abs/2409.08406)
 - ErrorRadar: Benchmarking Complex Mathematical Reasoning of Multimodal Large Language Models Via Error Detection, arXiv 2024. [[arXiv]](https://arxiv.org/abs/2410.04509)
 - Knowledge Tagging System on Math Questions via LLMs with Flexible Demonstration Retriever, arXiv 2024. [[arXiv]](https://arxiv.org/abs/2406.13885)
 - Evaluating Large Language Models with Educational Knowledge Graphs: Challenges with Prerequisite Relationships and Multi-Hop Reasoning, arXiv 2024. [[repo]](https://ai-for-edu.github.io/Evaluating-Large-Language-Models-with-Educational-Knowledge-Graphs-on-Prerequisite-Relationships/)
